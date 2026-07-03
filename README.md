@@ -7,7 +7,7 @@
 <h2><u>Prologue</u></h2>
 <p> Don't skip this! Reading Documentation is very important as it helps in getting familiar with the tools we are going to use. If you face problem with any of the syntax or function just go through the docs once before searching a quick fix.</p>
 
-![Pilot-How-2-Fly](\assets\Pilot.jpg)
+![Pilot-How-2-Fly](https://github.com/i-Anishh/Intro2python/blob/2df06bf3c399271ca00d0f6b4bbdc66d183da014/assets/Pilot.jpg)
 
 ---
 
