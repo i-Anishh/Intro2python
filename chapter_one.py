@@ -1,5 +1,15 @@
 print("Hello, World!")
 
+# let's try some more print statements:
+print()
+print("a", "b", "c")
+print(1+2+3)
+print(type("hello"))
+print(type(1))
+print(type(1.0))
+print(type(True))
+print(type(None))
+
 too_early_for_this = ('''print -> The print function is used to display output to the console. 
 () -> The parentheses are used to call the function.
 "hello" -> The string that will be printed to the console.
@@ -9,14 +19,3 @@ note: Don't forget to include the parentheses when calling a function, even if i
 ''')
 
 print(too_early_for_this)
-
-# let's try some more print statements:
-
-print()
-print("a", "b", "c")
-print(1+2+3)
-print(type("hello"))
-print(type(1))
-print(type(1.0))
-print(type(True))
-print(type(None))
