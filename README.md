@@ -11,7 +11,7 @@
 
 ---
 
-<h1> Chapter One </h1> 
+<h1> Chapter Zero </h1> 
 <h2> print() This statement. </h2>
 <p>Print is more than just to print("hello world"). If I don't know what a function does I'll just put it inside the print funciton.</p>
 
