@@ -4,11 +4,11 @@ print("Hello, World!")
 print()
 print("a", "b", "c")
 print(1+2+3)
-print("print('hello') is of type " + str(type("hello")))
-print("Type of 1: " + str(type(1)))
-print("Type of 1.0: " + str(type(1.0)))
-print("Type of True: " + str(type(True)))
-print("Type of None: " + str(type(None)))
+print("print('hello') is of type: " + str(type("hello")))
+print("print('1') is of type: " + str(type(1)))
+print("print('1.0') is of type: " + str(type(1.0)))
+print("print('True') is of type: " + str(type(True)))
+print("print('None') is of type: " + str(type(None)))
 
 too_early_for_this = ('''print -> The print function is used to display output to the console. 
 () -> The parentheses are used to call the function.
